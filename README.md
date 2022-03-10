@@ -4,7 +4,7 @@
 <h2> Hey there! I'm Gift.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-- I am trained in data sciences, statistics, and Data Analytics. I have an extensive background working with large and varied datasets using advanced data pre-processing tools, machine learning algorithms, and data visualization techniques to present the results.
+- Trained in data sciences, statistics, and Data Analytics. Extensive background working with large and varied datasets using advanced data pre-processing tools, machine learning algorithms, and data visualization techniques to present the results.
 
 
 - 🔭 Currently working on all things related to data analysis
