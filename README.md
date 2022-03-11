@@ -4,10 +4,15 @@
 <h2> Hey there! I'm Gift.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-- Trained in Data Analytics,Data sciences,statistics and GIS. Extensive background working with large and varied datasets using advanced data pre-processing tools, machine learning algorithms, and data visualization techniques to present the results.
+- Trained in Data Analytics,statistics and GIS. Extensive background working with large and varied datasets using advanced data pre-processing tools, machine learning algorithms, and data visualization techniques to present the results.
 
 
-- 🔭 Currently working on all things related to data analysis
+
+
+
+
+
+- 🔭 Currently working on all things related to data Analytics
 - 🌱 Learning anything I can get my hands on!
 - 👯 Always looking to collaborate
 - 💬 Ask me about all things related to statistics,GIS, and data analytics
