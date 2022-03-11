@@ -20,7 +20,7 @@ Trained in Data Analytics,Statistics and GIS. Extensive background working with 
 - 👯 Always looking to collaborate
 - 💬 Ask me about all things related to Statistics,GIS and Data Analytics
 
-<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="500px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=GiftMtambo" align="right"/>
+<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" align="right"/>
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
@@ -53,7 +53,6 @@ Trained in Data Analytics,Statistics and GIS. Extensive background working with 
 </br>
 <p style="display: flex; justify-contect: space-between;">
 <img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="400px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=GiftMtambo" />
-<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
 </p>
 
 
