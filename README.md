@@ -53,7 +53,7 @@ Trained in Data Analytics,Statistics and GIS. Extensive background working with 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://https://giftmtambo123.wixsite.com/my-site-1/"><img alt="Website" src="https://img.shields.io/badge/Website-https://giftmtambo123.wixsite.com/my-site-1-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://giftmtambo123.wixsite.com/my-site-1/"><img alt="Website" src="https://img.shields.io/badge/Website-https://giftmtambo123.wixsite.com/my-site-1-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.instagram.com/GiftMtambo/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-GiftMtambo__-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:giftmtambo123@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-giftmtambo123@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
