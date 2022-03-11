@@ -33,8 +33,6 @@ Trained in Data Analytics,Statistics and GIS. Extensive background working with 
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
@@ -45,7 +43,6 @@ Trained in Data Analytics,Statistics and GIS. Extensive background working with 
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
@@ -53,13 +50,13 @@ Trained in Data Analytics,Statistics and GIS. Extensive background working with 
 
 <br/>
 
-<a href="https://github.com/GiftMtambo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiftMtambo&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiftMtambo&theme=buefy&layout=compact" />
-</a>
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<br/>
-
+<p align="center">
+<a href="https://https://giftmtambo123.wixsite.com/my-site-1/"><img alt="Website" src="https://img.shields.io/badge/Website-https://giftmtambo123.wixsite.com/my-site-1-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.instagram.com/GiftMtambo/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-GiftMtambo__-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:giftmtambo123@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-giftmtambo123@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
 
 
 
