@@ -20,7 +20,7 @@ Trained in Data Analytics,Statistics and GIS. Extensive background working with 
 - 👯 Always looking to collaborate
 - 💬 Ask me about all things related to Statistics,GIS and Data Analytics
 
-
+<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="500px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=GiftMtambo" align="right"/>
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
