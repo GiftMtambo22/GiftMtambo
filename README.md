@@ -4,7 +4,10 @@
 <h2> Hey there! I'm Gift.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
 - Trained in Data Analytics,statistics and GIS. Extensive background working with large and varied datasets using advanced data pre-processing tools, machine learning algorithms, and data visualization techniques to present the results.
+
+
 
 
 
