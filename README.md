@@ -18,7 +18,7 @@ Trained in Data Analytics,Statistics and GIS. Extensive background working with 
 ### Connect with me
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giftmtambo123@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/GiftMtambo/)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in//)
 [![GiftMtambo.com](https://img.shields.io/badge/-GiftMtambo.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://giftmtambo123.wixsite.com/my-site-1/)
 ---
 
@@ -63,7 +63,7 @@ Trained in Data Analytics,Statistics and GIS. Extensive background working with 
 <br />
 
 ---
-### Computer and Statistics Skills 💻
+### Computer and Statistical Skills 💻
 
 - **Programming**: 
 Python(Scikit-learn, Pandas, Numpy, Matplotlib,Seaborn, Plotly, Geopandas, SciPy, Pytorch,), R,javaScript,HTML,CSS,Git,SQL(Postgres)
