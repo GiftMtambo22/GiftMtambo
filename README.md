@@ -11,8 +11,6 @@ Trained in Data Analytics,Statistics and GIS. Extensive background working with 
 - 🌱 Learning anything I can get my hands on!
 - 👯 Always looking to collaborate
 - 💬 Ask me about all things related to Statistics,GIS and Data Analytics
-
-<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" align="right"/>
 ---
 
 ### Connect with me
@@ -61,8 +59,8 @@ Trained in Data Analytics,Statistics and GIS. Extensive background working with 
 
 <br />
 <br />
-
 ---
+
 ### Computer and Statistical Skills 💻
 
 - **Programming**: 
@@ -76,5 +74,7 @@ DHIS2, SPSS, STATA, Survey CTO, Tableau, Microsoft Excel/Spreadsheets, Power BI,
 ---
 </br>
 <p style="display: flex; justify-contect: space-between;">
-<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="400px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=GiftMtambo" />
+<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="400px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=GiftMtambo"/>
+
+<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" align="right"/>
 </p>
