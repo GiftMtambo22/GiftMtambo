@@ -32,7 +32,6 @@ Trained in Data Analytics,Statistics and GIS. Extensive background working with 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
 <img align="left" alt="Git" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="35" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
 <br />
@@ -63,10 +62,10 @@ Trained in Data Analytics,Statistics and GIS. Extensive background working with 
 ### Computer and Statistical Skills 💻
 
 - **Programming**: 
-Python(Scikit-learn, Pandas, Numpy, Matplotlib,Seaborn, Plotly, Geopandas, SciPy, Pytorch,), R,javaScript,HTML,CSS,Git,SQL(Postgres)
+Python(Scikit-learn, Pandas, Numpy, Matplotlib,Seaborn, Plotly, Geopandas, SciPy), R,javaScript,HTML,CSS,Git,SQL(Postgres)
 
 - **Technical**:
-Data science pipeline (cleansing, wrangling, visualization, modeling, interpretation), Data Warehouse, Machine learning, Statistics, Geospatial Analysis, Agile, Relational Databases,Chi-squareTesting, HypothesisTesting,Statistical Modeling,Machine Learning,Deep Learning, Natural Language Processing,
+Data science pipeline (cleansing, wrangling, visualization, modeling, interpretation), Data Warehouse, Machine learning, Statistics, Geospatial Analysis, Agile, Relational Databases,HypothesisTesting,Statistical Modeling,Machine Learning, Natural Language Processing,
 
 - **Software**: 
 DHIS2, SPSS, STATA, Survey CTO, Tableau, Microsoft Excel/Spreadsheets, Power BI, Q-GIS, ArcGIS.
