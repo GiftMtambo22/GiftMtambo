@@ -51,9 +51,7 @@ Trained in Data Analytics,Statistics and GIS. Extensive background working with 
 <img align="left" alt="ploty" width="30" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/ploty.png" />
 <img align="left" alt="matplotlib_logo" width="50" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/matplotlib_logo.png" />
 <img align="left" alt="scipy" width="50" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/scipy.png" />
-<img align="left" alt="PyTorch" class="center" width="50" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/PyTorch.png" />
-<img align="left" alt="tensorflow" class="center" width="40" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/tensorflow.png" />
-<img align="left" alt="keras" class="center" width="28" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/keras.png" />
+<img align="left" alt="keras"class="center" width="28" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/keras.png" />
 
 <br />
 <br />
@@ -62,13 +60,13 @@ Trained in Data Analytics,Statistics and GIS. Extensive background working with 
 ### Computer and Statistical Skills 💻
 
 - **Programming**: 
-Python(Scikit-learn, Pandas, Numpy, Matplotlib,Seaborn, Plotly, Geopandas, SciPy), R,javaScript,HTML,CSS,Git,SQL(Postgres)
+Python(Scikit-learn, Pandas, Numpy, Matplotlib,Seaborn, Plotly, Geopandas, SciPy), R,javaScript,HTML,CSS,Git,SQL
 
 - **Technical**:
-Data science pipeline (cleansing, wrangling, visualization, modeling, interpretation), Data Warehouse, Machine learning, Statistics, Geospatial Analysis, Agile, Relational Databases,HypothesisTesting,Statistical Modeling,Machine Learning, Natural Language Processing,
+Data science pipeline (cleansing, wrangling, visualization, modeling, interpretation), Data Warehouse, Machine learning,Geospatial Analysis, Agile, Relational Databases,Statistical Modeling, Natural Language Processing,Dashboard creation.
 
 - **Software**: 
-DHIS2, SPSS, STATA, Survey CTO, Tableau, Microsoft Excel/Spreadsheets, Power BI, Q-GIS, ArcGIS.
+DHIS2, SPSS, STATA, Survey CTO, Tableau, Microsoft Excel/Spreadsheets, Power BI,Google earth,ArcGis online, Q-GIS, ArcGIS.
 ---
 </br>
 <p style="display: flex; justify-contect: space-between;">
