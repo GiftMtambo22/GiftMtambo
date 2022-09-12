@@ -1,6 +1,4 @@
 
-<img src="https://github.com/GiftMtambo/My-Website-/blob/f9512c5c2c08075cb08026deb25df4854edd04b0/my%20data%20scientist.JPG">
-
 <h2> Hey there! I'm Gift.</h2>
 
 <h3> About Me </h3>
