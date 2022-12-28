@@ -1,4 +1,3 @@
-
 <h2> Hey there! I'm Gift.</h2>
 
 <h3> About Me </h3>
